@@ -1,1 +1,1 @@
-class Faliuer{}
+class Faliuer {}
